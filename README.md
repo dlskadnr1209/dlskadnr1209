@@ -5,7 +5,7 @@
   - M.S. in Physics, UNIST (2022.03 - 2024.02)
 
 - **Current Position**
-  - Researcher at UNIST (Since 2022.03)
+  - Researcher at UNIST (Since 2024.03)
 
 - **Skills**
   - Operating Systems: Linux
