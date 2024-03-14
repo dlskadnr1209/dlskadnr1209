@@ -5,7 +5,7 @@
   - M.S. in Physics, UNIST (2022.03 - 2024.02)
 
 - **Current Position**
-  - Researcher at UNIST (Since 2024.03)
+  - Researcher at UNIST (2024.03 ~ )
 
 - **Skills**
   - Operating Systems: Linux
@@ -15,4 +15,4 @@
 - **Experience**
   - Specialized in Particle Simulation (PIC) and Analyzing Radio Observational Data.
   - Extensive experience with Deep Learning techniques.
-  - Proficient in managing servers and deploying applications using Docker.
+  - Proficient in managing servers, deploying softwares and using Docker.
